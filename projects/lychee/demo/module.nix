@@ -1,0 +1,5 @@
+{ ... }:
+
+{
+  programs.lychee.enable = true;
+}
